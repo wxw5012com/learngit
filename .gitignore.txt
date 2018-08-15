@@ -3,3 +3,4 @@
 /mp.txt
 /ml.txt
 /bk.txt
+fg.txt
