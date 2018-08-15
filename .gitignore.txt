@@ -5,3 +5,4 @@
 /bk.txt
 fg.txt
 /pop.txt
+nk.txt
